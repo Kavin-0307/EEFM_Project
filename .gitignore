@@ -40,6 +40,9 @@ venv.bak/
 Startup_Survey_PIJET_ten_papers.docx
 clean_assignment*.docx
 
+# External Datasets (Cloned mirrors)
+data/external/
+
 # Trained Model Artifacts (Heavy binary weights)
 artifacts/*.joblib
 artifacts/*.pkl
